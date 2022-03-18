@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "195887233059",
+    "project_id": "moodistappproject",
+    "storage_bucket": "moodistappproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195887233059:android:196631174f2c6930e35996",
+        "android_client_info": {
+          "package_name": "com.example.flutter_moodistapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195887233059-k6hpv5aga3tu06ugf28ppekehiqb1e3f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_moodistapp",
+            "certificate_hash": "f9191fdbfd0c15f403e4dd3c6dbe856003928a38"
+          }
+        },
+        {
+          "client_id": "195887233059-6j2ih62vli4mu2ha1spsegb2bd0pess2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX65qsop7sYEyiRHF9WA1fuVTM06UDYQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "195887233059-6j2ih62vli4mu2ha1spsegb2bd0pess2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
